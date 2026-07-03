@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-volleyball",
+      "description": "Portada del Manual de Voleibol",
+      "imageUrl": "https://i.postimg.cc/Px9yty1z/Gemini-Generated-Image-j8odo7j8odo7j8od.png",
+      "imageHint": "volleyball cover"
+    },
+    {
+      "id": "drill-1",
+      "description": "Ejercicio técnico",
+      "imageUrl": "https://postimg.cc/kV2dWs4r",
+      "imageHint": "volleyball training"
+    },
+    {
+      "id": "drill-2",
+      "description": "Juego grupal",
+      "imageUrl": "https://picsum.photos/seed/drill2/600/400",
+      "imageHint": "volleyball team"
+    },
+    {
+      "id": "drill-3",
+      "description": "Táctica de cancha",
+      "imageUrl": "https://picsum.photos/seed/drill3/600/400",
+      "imageHint": "volleyball tactic"
+    },
+    {
+      "id": "drill-4",
+      "description": "Entrenamiento salto",
+      "imageUrl": "https://picsum.photos/seed/drill4/600/400",
+      "imageHint": "volleyball jump"
+    },
+    {
+      "id": "drill-5",
+      "description": "Dinámica con balón",
+      "imageUrl": "https://picsum.photos/seed/drill5/600/400",
+      "imageHint": "volleyball ball"
+    },
+    {
+      "id": "example-certificate",
+      "description": "Certificado de participación incluido",
+      "imageUrl": "https://i.postimg.cc/mD8zQ8Fk/image.png",
+      "imageHint": "volleyball certificate"
+    },
+    {
+      "id": "example-material-full",
+      "description": "Exemplo do conteúdo interno",
+      "imageUrl": "https://i.postimg.cc/R0RV5bx0/imagem-2026-07-03-162822712.png",
+      "imageHint": "volleyball drill example"
+    }
+  ]
+}

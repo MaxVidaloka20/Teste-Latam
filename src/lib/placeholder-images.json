@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-volleyball",
+      "description": "Acción de voleibol profesional",
+      "imageUrl": "https://picsum.photos/seed/vball_hero/1200/800",
+      "imageHint": "volleyball action"
+    },
+    {
+      "id": "drill-1",
+      "description": "Ejercicio técnico",
+      "imageUrl": "https://picsum.photos/seed/drill1/600/400",
+      "imageHint": "volleyball training"
+    },
+    {
+      "id": "drill-2",
+      "description": "Juego grupal",
+      "imageUrl": "https://picsum.photos/seed/drill2/600/400",
+      "imageHint": "volleyball team"
+    },
+    {
+      "id": "drill-3",
+      "description": "Táctica de cancha",
+      "imageUrl": "https://picsum.photos/seed/drill3/600/400",
+      "imageHint": "volleyball tactic"
+    },
+    {
+      "id": "drill-4",
+      "description": "Entrenamiento salto",
+      "imageUrl": "https://picsum.photos/seed/drill4/600/400",
+      "imageHint": "volleyball jump"
+    },
+    {
+      "id": "drill-5",
+      "description": "Dinámica con balón",
+      "imageUrl": "https://picsum.photos/seed/drill5/600/400",
+      "imageHint": "volleyball ball"
+    }
+  ]
+}
